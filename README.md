@@ -64,20 +64,6 @@ This project helps in understanding real-world data engineering and analytics wo
 
 ---
 
-# Project Structure
-
-```bash
-Ecommerce-Sales-ETL/
-│
-├── data/                  # Raw and processed datasets
-├── notebooks/             # Jupyter notebooks
-├── sql/                   # SQL scripts
-├── dashboard/             # Power BI dashboard files
-├── screenshots/           # Dashboard screenshots
-├── etl_pipeline.py        # Main ETL workflow script
-├── requirements.txt
-└── README.md
-```
 
 ---
 
@@ -92,37 +78,6 @@ The dashboard helps analyze:
 - Profit analysis
 
 ---
-
-# Sample Dashboard
-
-Add your Power BI dashboard screenshots inside the `screenshots` folder.
-
-Example:
-```bash
-screenshots/dashboard.png
-```
-
----
-
-# Installation & Setup
-
-## Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Ecommerce-Sales-ETL.git
-```
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Run the ETL Pipeline
-
-```bash
-python etl_pipeline.py
-```
 
 ---
 
